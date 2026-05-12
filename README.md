@@ -8,6 +8,7 @@ A lightweight MIDI player with keyboard automation support. Play MIDI files and 
 1. Launch `GenshinLyreMidiPlayer.WPF.exe`
 2. Open a MIDI file via the playlist
 3. Select your keyboard layout and instrument in Settings
+4. Press **Play** or hit **F1** to start / stop
 
 
 
